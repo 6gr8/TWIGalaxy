@@ -42,4 +42,5 @@
 
 # Compatibility
 
-- Supports iOS 15 – iOS 18  
+- Supports iOS 15 – iOS 18
+

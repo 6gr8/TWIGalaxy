@@ -1,4 +1,4 @@
-# TWIGalaxy
+# Features
 
 
 - Download Videos  
@@ -35,3 +35,7 @@
 - Disable Recent Searches  
 - Tap to play or pause  
 
+# How to install
+
+- Open **Sileo** or **Zebra**  
+- Add the following repository: https://6gr8.github.io/deno.io/

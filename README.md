@@ -35,6 +35,9 @@
 - Disable Recent Searches  
 - Tap to play or pause  
 
+# ![IMG_1187](https://github.com/user-attachments/assets/5c0a932b-3e95-4cd7-9eb1-0dad2eb66c40)
+
+
 # How to install
 
 - Open **Sileo** or **Zebra**  

@@ -1,8 +1,6 @@
 # TWIGalaxy
 
 
-# TWIGalaxy
-
 - Download Videos  
 - Disable unfollow confirmation  
 - Follow Confirmation  
